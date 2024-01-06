@@ -1,0 +1,4 @@
+1#Pizza Pepperoni#20.0#Main dish
+2#Ceasar Salad#9.0#Salad
+3#Caviar#222.5#Seafood
+4#Burger#20.0#Fast food
